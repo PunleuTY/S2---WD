@@ -1,0 +1,27 @@
+body {
+  background: grey;
+  font-family: sans-serif;
+}
+.container {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 30px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+.btn-gray {
+  border-radius: 10px;
+  background-color: gray;
+  padding: 5px;
+}
+.btn-green {
+  border-radius: 10px;
+  background-color: greenyellow;
+  padding: 5px;
+}
+.btn-burlywood {
+  border-radius: 10px;
+  background-color: burlywood;
+  padding: 5px;
+}
